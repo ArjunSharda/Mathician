@@ -1,6 +1,5 @@
 Change Log
 
-Version 1.4.1:
+Version 1.4.3:
 
-+ Added new commands
-+ Added some math commands, making this a addition to the math package
++ Fixed squareroot bug (CONFIRMED)

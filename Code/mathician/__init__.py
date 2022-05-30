@@ -12,9 +12,12 @@ def multiply(num1, num2):
 
 def divide(num1, num2):
   return num1/num2
+  
+import random
+import math
 
 def squareroot(num1):
-  return num1/num1
+  return math.sqrt(num1)
 
 def stringlettercount(String):
   stringletters = len(String)
@@ -28,8 +31,6 @@ def celsius_to_fahrenheit(num1):
   answer = num1 * 1.8 + 32
   return answer
 
-import random
-import math
 
 def randomnumber(num1, num2):
   number = random.randint(num1, num2)
