@@ -1,1 +1,0 @@
-This consists of the open-sourced code for Mathician, free for everyone as long as you follow the license! Credit to https://www.youtube.com/watch?v=zhpI6Yhz9_4 for help with Mathician and helping it be what it is.
