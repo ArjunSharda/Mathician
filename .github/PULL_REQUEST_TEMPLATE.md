@@ -1,12 +1,24 @@
 # Mathician Pull Requests
 
-Put a x in the box if you check something
+<!--
+Hey there! Thanks for showing interest in opening a pull request for Mathician.
 
-Describe the changes you've made.
+Please make sure that your changes follows both of the conditions as it can make it easier for your pull request to be reviewed and merged potentially.
+Put a x in the box if you agree to the condition(s).
+
+Please make sure that your changes follows both of the conditions as it can make it easier for your pull request to be reviewed and merged potentially.
+Put a x in the box if you agree to the condition(s).
+
+
+<!-- Thanks for your change to Mathician! -->
+
+# Changes Description
+Replace this text with a description of the changes you've made.
 
 - [ ] I have reviewed my changes and if it is related with programming, it has been tested.
 - [ ] I understand that these changes will become under the property of Mathician if merged.
 
 ### Additional Comments
 
-Anything extra you want to say in the pull request?
+
+Replace this text with anything extra you want to say in the pull request, if you want to. This is optional, and if you don't, please delete this message.
