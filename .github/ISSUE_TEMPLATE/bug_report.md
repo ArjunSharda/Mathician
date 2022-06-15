@@ -17,7 +17,7 @@ Please make sure to not report any security bugs that can exploit Mathician or s
 
 Thanks for reporting a bug of Mathician; even a minor bug helps.
 
-<--
+-->
 
 
 **Describe the bug**
