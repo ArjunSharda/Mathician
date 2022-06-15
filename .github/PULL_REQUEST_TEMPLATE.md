@@ -6,9 +6,6 @@ Hey there! Thanks for showing interest in opening a pull request for Mathician.
 Please make sure that your changes follows both of the conditions as it can make it easier for your pull request to be reviewed and merged potentially.
 Put a x in the box if you agree to the condition(s).
 
-Please make sure that your changes follows both of the conditions as it can make it easier for your pull request to be reviewed and merged potentially.
-Put a x in the box if you agree to the condition(s).
-
 
 <!-- Thanks for your change to Mathician! -->
 
