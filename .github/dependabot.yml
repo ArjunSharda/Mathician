@@ -14,4 +14,15 @@ updates:
     labels:
       - "enhancement"
       - "Dependabot"
-      
+      - "Low Priority"
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    reviewers:
+      - "ajsharda17"
+    labels:
+      - "Dependabot"
+      - "enhancement"
+      - "Low Priority"
