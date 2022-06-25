@@ -21,7 +21,7 @@ updates:
     schedule:
       interval: "daily"
     reviewers:
-      - "ajsharda17"
+      - "ArjunSharda"
     labels:
       - "Dependabot"
       - "enhancement"
