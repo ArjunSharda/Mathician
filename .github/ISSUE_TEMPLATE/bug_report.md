@@ -26,7 +26,6 @@ Replace this text with a clear and concise description of what the bug is.
 **Reproduction of the Bug**
 Replace this text with steps to reproduce the behavior:
 
-
 **Expected behavior**
 Replace this text with a clear and concise description of what you expected to happen.
 
