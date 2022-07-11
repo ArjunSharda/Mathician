@@ -13,7 +13,7 @@ Put a x in the box if you agree to the condition(s).
 Replace this text with a description of the changes you've made.
 
 - [ ] I have reviewed my changes and if it is related with programming, it has been tested.
-- [ ] I understand that these changes will become under the property of Mathician if merged.
+- [ ] I understand that these changes will become under the property of Mathician if merged and I agree to let the changes be used in Mathician's repository.
 
 ### Additional Comments
 
