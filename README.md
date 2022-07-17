@@ -5,7 +5,7 @@
 [![Language](https://img.shields.io/badge/language-Python-blue)](https://python.org)
 [![Top Language](https://img.shields.io/github/languages/top/ArjunSharda/Mathician)](https://python.org)
 [![License](https://img.shields.io/github/license/ajsharda17/Mathician?color=l&label=License)](https://github.com/ArjunSharda/Mathician/blob/main/LICENSE)
-[![Commit Checks State](https://img.shields.io/github/checks-status/ajsharda17/Mathician/main)](https://github.com/ArjunSharda/Mathician)
+[![Commit Checks State](https://img.shields.io/github/checks-status/ArjunSharda/Mathician/main)](https://github.com/ArjunSharda/Mathician)
 
 Mathician is a math package that uses the math package (some of it) and it's own code. It is created by Arjun Sharda with the video https://www.youtube.com/watch?v=zhpI6Yhz9_4, and it is one simple python package that can be used, although very basic and does not have many features. 
 
