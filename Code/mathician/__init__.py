@@ -19,7 +19,7 @@ import math
 def squareroot(num1):
   return math.sqrt(num1)
 
-def stringlettercount(String):
+def stringlettercount(String: str):
   stringletters = len(String)
   return stringletters
 
