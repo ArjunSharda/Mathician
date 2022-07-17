@@ -1,5 +1,6 @@
 Change Log
 
-Version 1.4.3:
+Version 1.4.4:
 
-+ Fixed squareroot bug (CONFIRMED)
++ Fixed bug error in PyPi readme
++ Made sure String is a str in stringlettercount
