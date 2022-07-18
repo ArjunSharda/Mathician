@@ -8,5 +8,5 @@ npm i mathician.js
 Then, in your code include:
 
 ```js
-const mathicianjs = require("mathician.js");
+const mathicianjs = require('mathician.js');
 ```
