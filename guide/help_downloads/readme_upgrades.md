@@ -1,5 +1,7 @@
-# Everywhere:
+# PYCHARM
 
-Terminal/Shell:
-```npm update mathician.js
-```
+python -m pip install --upgrade mathician
+
+# REPLIT
+
+Unknown (work in progress)
