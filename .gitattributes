@@ -1,2 +1,0 @@
-examples/** -linguist-detectable
-*.js linguist-language=JavaScript
