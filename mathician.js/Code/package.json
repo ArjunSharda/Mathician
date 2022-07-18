@@ -1,10 +1,10 @@
 {
   "name": "mathician.js",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Mathician but for Javascript/TypeScript!",
   "main": "index.ts",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=16.0.0"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "author": "Arjun Sharda",
   "license": "MIT",
   "dependencies": {
-    "mathician.js": "^1.1.4",
+    "mathician.js": "^1.1.5",
     "node-fetch": "^3.2.6"
   },
   "bugs": {
