@@ -1,8 +1,8 @@
-# Downloading Mathician
+# Installing Mathician
 
-Thanks for showing interest in downloading Mathician.
+Thanks for showing interest in installing Mathician.
 
-Two ways to download Mathician:
+Two ways to install Mathician:
 
 # REPLIT
 
