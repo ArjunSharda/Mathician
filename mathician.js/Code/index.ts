@@ -26,8 +26,11 @@ module.exports = {
   log: (num) => {
     return Math.log(num);
   },
-  cos: (num) => {
-    return Math.cos(num);
+  cos: (num1, num2) => {
+    return Math.cos(num1, num2);
+  },
+  cosh: (num1, num2) => {
+    return Math.cosh(num1, num2);
   },
   pow: (num) => {
     return Math.pow(num);
@@ -37,5 +40,8 @@ module.exports = {
   },
   celsius_to_fahrenheit: (num) => {
     return num + 32 * 1.8;
+  },
+  abs: (num1, num2) => {
+    return Math.abs(num1, num2);
   },
 };
