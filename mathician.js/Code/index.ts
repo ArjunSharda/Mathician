@@ -44,4 +44,7 @@ module.exports = {
   abs: (num1, num2) => {
     return Math.abs(num1, num2);
   },
+  round: (num) => {
+    return Math.round(num1, num2);
+  },
 };
