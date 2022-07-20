@@ -2,7 +2,6 @@
 <img height="200" width="200" src="https://cdn.discordapp.com/attachments/980115259534749746/984839027398160394/Untitled.png"/>
 
 
-[![Language](https://img.shields.io/badge/language-Python-blue)](https://python.org)
 [![Top Language](https://img.shields.io/github/languages/top/ArjunSharda/Mathician)](https://python.org)
 [![License](https://img.shields.io/github/license/ajsharda17/Mathician?color=l&label=License)](https://github.com/ArjunSharda/Mathician/blob/main/LICENSE)
 [![Mathician.js current version](https://img.shields.io/github/package-json/dependency-version/ArjunSharda/Mathician/mathician.js?color=green&filename=mathician.js%2FCode%2Fpackage.json&label=mathician.js%20version)](https://github.com/ArjunSharda/Mathician)
