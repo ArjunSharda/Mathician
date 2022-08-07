@@ -1,6 +1,6 @@
 {
   "name": "mathician.js",
-  "version": "1.2.6",
+  "version": "1.2.5",
   "description": "Mathician but for Javascript/TypeScript!",
   "main": "index.ts",
   "engines": {
@@ -20,7 +20,7 @@
   "author": "Arjun Sharda",
   "license": "MIT",
   "dependencies": {
-    "mathician.js": "^1.2.6",
+    "mathician.js": "^1.2.5",
     "node-fetch": "^3.2.6"
   },
   "bugs": {
@@ -29,8 +29,5 @@
   "homepage": "https://github.com/ArjunSharda/Mathician#readme",
   "scripts": {
     "test": "console.log(mathicianjs.add(5,10));"
-  },
-  "publishConfig": {
-  "registry":"https://npm.pkg.github.com"
   }
 }
