@@ -12,12 +12,12 @@ classifiers = [
  
 setup(
   name='Mathician',
-  version='1.4.5',
+  version='1.4.8',
   description='Math package',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='https://github.com/ajsharda17/Mathician',  
+  url='https://github.com/ArjunSharda/Mathician',  
   author="Arjun Sharda",
-  author_email='chairbfroblox@gmail.com',
+  author_email='sharda.aj17@gmail.com',
   license='MIT', 
   classifiers=classifiers,
   keywords='mathician', 
