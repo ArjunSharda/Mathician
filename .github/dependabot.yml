@@ -27,13 +27,3 @@ updates:
       - "enhancement"
       - "Low Priority"
       
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "daily"
-    reviewers:
-      - "ArjunSharda"
-    labels:
-      - "Dependabot"
-      - "enhancement"
-      - "Low Priority"
