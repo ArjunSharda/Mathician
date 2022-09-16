@@ -8,7 +8,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ArjunSharda/Mathician/Dependency%20Review?label=workflow)
 ![Total GitHub Contributors](https://img.shields.io/github/contributors/ArjunSharda/Mathician?label=total%20contributors)
 
-Mathician is a math package that uses the math package (some of it) and built in Python math classes. It is created by Arjun Sharda, and it is one simple python package that can be used, although very basic and does not have many features. 
+Mathician is a math package that uses the math package (some of it) and built with Python math classes. It is created by Arjun Sharda, and it is one simple python package that can be used, although very basic and does not have many features. 
 
 Mathician is open-sourced and is free for everyone to use, fork, etc, under the repository's license.
 
