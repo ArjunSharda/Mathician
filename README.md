@@ -5,7 +5,7 @@
 [![Top Language](https://img.shields.io/github/languages/top/ArjunSharda/Mathician)](https://python.org)
 [![License](https://img.shields.io/github/license/ajsharda17/Mathician?color=l&label=License)](https://github.com/ArjunSharda/Mathician/blob/latest-public-release/LICENSE)
 ![GitHub commit activity (per year)](https://img.shields.io/github/commit-activity/y/ArjunSharda/Mathician)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ArjunSharda/Mathician/Dependency%20Review?label=workflow)
+![GitHub Dependency Review Workflow Status](https://img.shields.io/github/workflow/status/ArjunSharda/Mathician/Dependency%20Review?label=Dependency Review)
 ![Total GitHub Contributors](https://img.shields.io/github/contributors/ArjunSharda/Mathician?label=total%20contributors)
 
 Mathician is a math package that uses the math library (some of it) and built with Python math classes. It is created by Arjun Sharda, and it is one simple python package that can be used, although very basic and does not have many features. 
