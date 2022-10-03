@@ -1,5 +1,6 @@
 Change Log
 
-Version 1.5.0
+Version 1.6.0
 
-+ Code rewrite for publishing with PyPi
++ Added nth root
++ Changed examples to add square root and nth root in a single file (roots.py)
