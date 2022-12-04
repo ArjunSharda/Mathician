@@ -97,3 +97,13 @@ def remainder(num1, num2):
 def radians(num1):
     radiana = math.radians(num1)
     return radiana
+
+def integrate(func, a, b, precision):
+    total = 0
+    dx = (b-a) / precision
+
+    for n in range(0, precision):
+        s = a + n*dx
+        total += func(s) + func(s + dx)
+
+    return (dx/2) * total
