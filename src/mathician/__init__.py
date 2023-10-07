@@ -107,3 +107,38 @@ def integrate(func, a, b, precision):
         total += func(s) + func(s + dx)
 
     return (dx/2) * total
+
+from math import *
+def square(num):
+    """
+    Square a number.
+    """
+    return pow(num,2)
+
+def solutions(a,b,c):
+    """
+    Find the number of real solutions that are in a quadratic equation with values of ax^2 + bx + c with a,b,c values being inputted respectively.
+    
+    Note that a value of 0 means 0 real solutions while 1 means 1 real solution and 2 means 2 real solutions.
+    """
+    d_value = pow(b,2) - 4 * a * c
+    if d_value < 0:
+        return 0
+    elif d_value == 0:
+        return 1
+    else:
+        return 2
+
+def slope(c1,c2):
+    """
+    Input 2 coordinates as tuples or 2 lists and get the slope of them!
+    """
+    try:
+        return ((c1[1] - c2[1]))/((c1[0] - c2[0]))
+    except ZeroDivisionError:
+        return 0
+def combination(r,n):
+    """
+    Get a combination of r items fron set of n items.
+    """
+    return (math.factorial(n)) / math.factorial(r) * math.factorial((n-r))
