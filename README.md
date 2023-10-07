@@ -22,10 +22,9 @@ py -3 -m pip install -U mathician
 ```
 **Changelog**
 
-Version 1.5.0
+Version 1.7.1
 
-+ Code rewrite for publishing with PyPi
-
++ Added square, real solutions, slope and combination, credit: @De-y via #60 
 
 **Quickstart**
 ```python
